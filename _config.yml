@@ -4,4 +4,7 @@ plugins:
 
 title: Libros de Elizabeth nwn
 
-sidebar: sidebar_nav
+sidebar:
+  - index
+  - label: Mis libros
+    - libro-1
