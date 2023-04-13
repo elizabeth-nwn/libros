@@ -7,4 +7,5 @@ title: Libros de Elizabeth nwn
 sidebar:
   - index
   - label: Mis libros
+    children:
     - libro-1
