@@ -1,5 +1,3 @@
-<!-- _sidebar.md -->
-
 ---
 id: sidebar_nav
 ---
