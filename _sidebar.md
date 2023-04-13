@@ -1,7 +1,7 @@
 <!-- _sidebar.md -->
 
 ---
-id: sidebar
+id: sidebar_nav
 ---
 
 
